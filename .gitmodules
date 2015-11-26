@@ -1,0 +1,3 @@
+[submodule "developers-guide.wiki"]
+	path = developers-guide.wiki
+	url = https://github.com/DBC-Boots/developers-guide.wiki.git
